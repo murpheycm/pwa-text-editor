@@ -1,1 +1,5 @@
-node_modules
+.DS_Store/
+Assets/
+node_modules/
+.vscode/
+.env
