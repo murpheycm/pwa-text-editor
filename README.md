@@ -1,15 +1,11 @@
 # PWA Text Editor
 A text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
-
 # Table of Contents
 * [User Story](#userstory)
 * [Acceptance Criteria](#acceptancecriteria)
 * [Usage](#usage)
 * [Installation](#installation)
-
-
-
 
 ## User Story
 > AS A developer <br>
@@ -43,10 +39,10 @@ A text editor that runs in the browser. The app is a single-page application tha
 > WHEN I deploy to Heroku <br>
 > THEN I should have proper build scripts for a webpack application <br>
 
-
 ## Usage
-
+!["screenshot"](./assets/Capture.JPG)
 
 ## Installation
-
-
+1. client side - npm run build
+2. client side - npm run start
+3. open index.html in the dist folder
